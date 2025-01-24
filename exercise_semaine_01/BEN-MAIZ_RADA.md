@@ -11,5 +11,5 @@ J'ai commencer à en faire, en même temps j'ai apris à géré l'audio et faire
 apprendre plus de choses au domaine du multimédia. 
 
 Un jeu qui m'inspire a connaître les mecanisme et le travail multimedia:
-![photo](
+![photo](CODM-LANDINGSITE2-TOUT.jpg)
 
