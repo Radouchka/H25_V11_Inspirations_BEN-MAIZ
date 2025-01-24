@@ -13,3 +13,11 @@ apprendre plus de choses au domaine du multimédia.
 Un jeu qui m'inspire a connaître les mecanisme et le travail multimedia:
 ![photo](CODM-LANDINGSITE2-TOUT.jpg)
 
+## Ce qui me plait dans l'introduction à la muséologie en TIM
+
+Je suis visuelle et trouve tout ce qui est technologique et interactive intéresant. J'aime découvrir de nouvelles
+choses. Le Multimedia est ma passion et j'aimerais pouvoir crée des expositions come celles retrouver dans les musées.
+
+Merci!
+![photo]
+
