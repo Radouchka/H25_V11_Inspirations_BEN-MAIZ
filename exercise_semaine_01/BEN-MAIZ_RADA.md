@@ -19,5 +19,5 @@ Je suis visuelle et trouve tout ce qui est technologique et interactive intéres
 choses. Le Multimedia est ma passion et j'aimerais pouvoir crée des expositions come celles retrouver dans les musées.
 
 Merci!
-![photo]
+![photo](chatwar.jpg)
 
