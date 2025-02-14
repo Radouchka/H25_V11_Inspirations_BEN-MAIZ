@@ -33,6 +33,11 @@ Il y a un chronomètre afficher à l’écran, lorsque le temps est fini, il y a
 <img src="media/demo-d'utulisation.jpg" alt="exemple4">
 </div>
 
+## Multimédia
+Pour ce qui est de la technologie, la banquise est montée a partir de : Écrans interactifs, Capteurs de mouvement, Réalité augmentée, Feedback haptique.
+Après avoir fait mes recherches, j'ai constatée que chaque pièce a son comportement. Par exemple, il ya des gyroscopes, qui mesurent la vitesse angulaire. Il ya aussi des Capteurs de proximité,ces capteurs détectent la présence d'un objet sans contact physique.
+Une autre Information que je trouve pertinante est celle des Capteurs de force, ils mesurent la force appliquée par l'utilisateur sur le fouet, et etc..
+
 
 
 
