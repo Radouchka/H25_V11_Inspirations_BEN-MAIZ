@@ -45,6 +45,7 @@ L'Ingénieur multimédia est le seul qui semble avoir participé dans l'equipeme
 Il a participé et a réaliser plusieurs projets multimedia hors du québec : **"Cerveau : de la suite dans les idées"** - Exposition permanente à la Cité des sciences et de l'industrie, Paris.
 **"Mille milliards de fourmis"** - Exposition au Palais de la découverte, Paris. Contribué à la recherche et au développement multimédia pour cette exposition.
 **"Testez vos lobes frontaux"** - Exposition "Le cerveau intime" à la Cité des sciences et de l'industrie, Paris, impliqué dans l'adaptation multimédia.
+
 ![photo](media/expo-credits,final.jpg)
 
 # Mon Opinion
@@ -52,3 +53,12 @@ Selon moi, j’ai choisi d’étudier ce dispositif puisqu’il fait partie de c
 
 ## Élements moins appreciés
 j’aurais aimé que le coter visuel soit développer. Sur l’écran est affiché notre progrès d’une certaine manière, mais la crème en tant que tel représenter dans le bol ne semble pas changer, elle reste dans son état liquide même s’il semble que nous avons ‘réussit’ à la formé. J’aurais aimé un côter plus réaliste dans l’affichage.
+
+# Resources
+<https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/cp-expo-banquet.pdf>
+<https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet>
+<https://www.xjcsensor.com/fr/multi-axis-sensors-for-complex-robot-interactions-guide/>
+<https://performance-tpe.fr/les-12-types-de-capteurs-%E2%81%9A-leurs-caracteristiques-et-fonctions/?form=MG0AV3>
+<https://www.cite-sciences.fr/au-programme/expos-permanentes/expos-permanentes-dexplora/cerveau/jeu/index.php?copyright=1&form=MG0AV3>
+<https://www.palais-decouverte.fr/fr/fr/ressources/expositions-passees/mille-milliards-de-fourmis-cette-exposition-est-terminee/site-vitrine-de-lexposition-mille-milliards-de-fourmis-exposition-terminee/generique/?form=MG0AV3>
+
