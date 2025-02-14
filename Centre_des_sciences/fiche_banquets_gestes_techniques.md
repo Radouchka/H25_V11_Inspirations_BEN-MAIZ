@@ -1,5 +1,7 @@
 # Banquet-Centre des sciences 
+
 ![photo](Centre_des_sciences/media/centre.jpg)
+
 ## Informations sur mon banquet  
 Le sujet de mon banquet et plus précisement celui de l'exposition troune autour de la gastronomie.
 En effet, la gastronomie est l'art de déguster et d'apprécier les mets. C'est une science d'apprentissage culinaire et l'exposition vise 
