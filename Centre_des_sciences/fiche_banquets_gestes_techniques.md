@@ -19,7 +19,7 @@ découverte. Grâce au dispositifs présenté, il ya une interactivité pour don
 Le dispositif que j'ai choisi s'appelle les gestes techniques, mais celui qui ma intéresser c'est le fouet-la crème fouettée.
 Le but de ma banquise c'est de se bien servir d’un fouet. Apprendre les gestes techniques. Cette instalation dure environ 4 minutes, 1 minutes d'explication et 3 minutes de mise en épreuve.
 L'exercice constitue d'Une table avec lequelle il y a un bol et un fouet. L'ecran en face n'est pas intéractif, plutot une source de diffusion. Il ya deux haut-parleurs de chaque côter de l'ecran et un bouton de démarrage.
-<img src="Centre_des_sciences/media/exemple-1.jpg" alt="exemple1">
+<img src="media/exemple-1.jpg" alt="exemple1">
 
 
 
