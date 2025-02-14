@@ -41,7 +41,11 @@ Une autre Information que je trouve pertinante est celle des Capteurs de force, 
 ![demo_utulisation gif](https://github.com/user-attachments/assets/43226a1f-bf34-4738-b188-6eba9bb01c55)
 
 ## Crédits
-L'Ingénieur multimédia est le seul qui semble avoir participé dans l'equipement physique. J'ai fait mes recherches et il s'appelle Philip Herpin
+L'Ingénieur multimédia est le seul qui semble avoir participé dans l'equipement physique. J'ai fait mes recherches et il s'appelle Philippe Herpin. Son travail consiste à concevoir et intégrer des éléments multimédias pour créer des expériences interactives et éducatives. 
+Il a participé et a réaliser plusieurs projets multimedia hors du québec : **"Cerveau : de la suite dans les idées"** - Exposition permanente à la Cité des sciences et de l'industrie, Paris.
+**"Mille milliards de fourmis"** - Exposition au Palais de la découverte, Paris. Contribué à la recherche et au développement multimédia pour cette exposition.
+**"Testez vos lobes frontaux"** - Exposition "Le cerveau intime" à la Cité des sciences et de l'industrie, Paris, impliqué dans l'adaptation multimédia.
+
 
 
 
