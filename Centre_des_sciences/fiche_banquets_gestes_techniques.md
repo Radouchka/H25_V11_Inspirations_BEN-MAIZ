@@ -45,9 +45,10 @@ L'Ingénieur multimédia est le seul qui semble avoir participé dans l'equipeme
 Il a participé et a réaliser plusieurs projets multimedia hors du québec : **"Cerveau : de la suite dans les idées"** - Exposition permanente à la Cité des sciences et de l'industrie, Paris.
 **"Mille milliards de fourmis"** - Exposition au Palais de la découverte, Paris. Contribué à la recherche et au développement multimédia pour cette exposition.
 **"Testez vos lobes frontaux"** - Exposition "Le cerveau intime" à la Cité des sciences et de l'industrie, Paris, impliqué dans l'adaptation multimédia.
-![photo](media/exemple-citesciences.jpg)
 ![photo](media/expo-credits,final.jpg)
 
+# Mon Opinion
+Selon moi, j’ai choisi d’étudier ce dispositif puisqu’il fait partie de ceux que j’ai apprécier lors de cette visite. Il semblait être à l’entrer et le nombre de personnes qui voulaient faire cette activité ma encourager de l’explorer. Le concept est intéressant puisqu’il s’agit d’un professionnel qui apprend au visiteur des techniques culinaires. La crème a fouetté était pour moi une expérience amusante, savoir l’Angle parfait pour fouetter la crème, la vitesse appliquer et le temps pour qu’aux final je reçois mon résultat de mes efforts et de ma technique. Ceci me semble comme un jeu vidéo éducatif. La technologie derrière est impressionnante avec les capteurs multiples qui détecte mon mouvement précis. J’ai apprécié et je trouve que le fait que le dispositif encourage les visiteurs à le fréquenter principalement à cause de son aspect compétitif, je le prends en note.
 
-
-
+## Élements moins appreciés
+j’aurais aimé que le coter visuel soit développer. Sur l’écran est affiché notre progrès d’une certaine manière, mais la crème en tant que tel représenter dans le bol ne semble pas changer, elle reste dans son état liquide même s’il semble que nous avons ‘réussit’ à la formé. J’aurais aimé un côter plus réaliste dans l’affichage.
