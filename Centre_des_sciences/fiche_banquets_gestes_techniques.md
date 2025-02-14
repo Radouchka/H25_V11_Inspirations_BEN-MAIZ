@@ -46,6 +46,7 @@ Il a participé et a réaliser plusieurs projets multimedia hors du québec : **
 **"Mille milliards de fourmis"** - Exposition au Palais de la découverte, Paris. Contribué à la recherche et au développement multimédia pour cette exposition.
 **"Testez vos lobes frontaux"** - Exposition "Le cerveau intime" à la Cité des sciences et de l'industrie, Paris, impliqué dans l'adaptation multimédia.
 ![photo](media/exemple-citesciences.jpg)
+![photo](media
 
 
 
