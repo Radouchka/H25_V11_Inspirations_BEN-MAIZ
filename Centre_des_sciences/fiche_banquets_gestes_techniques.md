@@ -24,6 +24,11 @@ L'exercice constitue d'Une table avec lequelle il y a un bol et un fouet. L'ecra
 <img src="media/exemple-2.jpg" alt="exemple2">
 </div>
 
+## Description
+Pour le mode d'utulisation, il y’a un écran devant l’utilisateur et celui-ci appuie sur un bouton ‘débuter’ pour que le système recommence l’expérience de nouveau. Après l'Affichage d'une courte vidéo sur comment fouetter de la crème,
+l'utulisateur est invité à essayer l'activitée.Lorsque le visiteur prend le fouet et le met dans le bol, les contours de ce bol a une bordure noire. Celle si contient des capteurs de plusieurs types, ils enregistrent et détecte le mouvement de l’utilisateur et le traduit à l’écran en l’affichant en temps réel. 
+Il y a un chronomètre afficher à l’écran, lorsque le temps est fini, il y a l’affichement du niveau du visiteur, d’une a cinq étoiles. Le système calcul cela grâces au mouvement enregistrer.
+
 
 
 
