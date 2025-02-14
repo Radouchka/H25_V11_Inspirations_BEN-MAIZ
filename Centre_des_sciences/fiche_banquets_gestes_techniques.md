@@ -1,6 +1,6 @@
 # Banquet-Centre des sciences 
 
-![photo](Centre_des_sciences/media/centre.jpg)
+![photo](media/centre.jpg)
 
 ## Informations sur mon banquet  
 Le sujet de mon banquet et plus précisement celui de l'exposition troune autour de la gastronomie.
