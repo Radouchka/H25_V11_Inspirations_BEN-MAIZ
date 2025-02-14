@@ -45,6 +45,7 @@ L'Ingénieur multimédia est le seul qui semble avoir participé dans l'equipeme
 Il a participé et a réaliser plusieurs projets multimedia hors du québec : **"Cerveau : de la suite dans les idées"** - Exposition permanente à la Cité des sciences et de l'industrie, Paris.
 **"Mille milliards de fourmis"** - Exposition au Palais de la découverte, Paris. Contribué à la recherche et au développement multimédia pour cette exposition.
 **"Testez vos lobes frontaux"** - Exposition "Le cerveau intime" à la Cité des sciences et de l'industrie, Paris, impliqué dans l'adaptation multimédia.
+![photo](media/exemple-citesciences.jpg)
 
 
 
