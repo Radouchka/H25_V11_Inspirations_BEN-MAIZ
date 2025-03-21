@@ -25,5 +25,25 @@ Dès que tous les utilisateurs quittent, l’installation passe en mode veille, 
 <div>
 <img src="media/Fleurs_bleue.jpg" alt="exemple1">
 <img src="media/fleurs_volantes.jpg" alt="exemple2">
-<img src="media/exemple_lumieres.jpg" alt="exemple3">
 </div>
+
+## Multimédia
+
+<div>
+<img src="media/plaque_metal.jpg" alt="exemple3">
+<img src="media/sensors_instalation.jpg" alt="exemple4">
+</div>
+
+Le budget qui a été fournis par le cegep pour les étudiants était de 500$. Et voici le materiel qu'ils ont utuliser.
+
+### Matériel
+Plaques métalliques (capteurs de capacitance),PC avec GPU dédié (gestion globale),Microcontrôleurs (Arduino, ESP32, M5 Stack Atom),Projecteur haute résolution (diffusion vidéo),Haut-parleurs et cartes son multi-canaux (audio),Éclairage DMX et LED adressables (gestion lumineuse) Ces outils permettent de créer une interaction immersive entre l’utilisateur, la lumière et le son.
+### Logiciels
+Logiciels :TouchDesigner (projections), Max (audio et ambiance),Reaper (montage sonore),Arduino (capacitance),LogData (liaison des systèmes),QLC+ (gestion des lumières)
+
+## Credits
+
+![photo](media/groupe.jpg)
+
+### Les membres participants
+**Audrey Dandurand** est la directrice audiovisuelle et gestionnaire du projet LumiNatura. Elle est responsable de la gestion des aspects audiovisuels de l'installation, ce qui inclut la coordination des éléments sonores et visuels, afin de créer une expérience immersive cohérente et engageante pour les utilisateurs. **Camilia Bouatmani**, qui est la directrice artistique du projet LumiNatura. Elle est responsable de la vision créative et du design artistique de l'installation, dirigeant l'aspect visuel et esthétique de l'œuvre. **Ihab  Mouhajer** développeur interactif du projet LumiNatura. Il est responsable du développement des interactions technologiques au sein de l'installation, en particulier en ce qui concerne l'aspect interactif de l'œuvre, où les utilisateurs influencent les éléments lumineux et sonores par leur présence et leurs gestes. **Justine Rousseau** est programmeuse et coordonnatrice des médias pour le projet LumiNatura. Elle est responsable de la gestion des aspects techniques liés aux médias, ce qui inclut probablement la programmation et la coordination des éléments audiovisuels de l'installation. **Prethiah Rajaratnam** programmeuse et administratrice du projet LumiNatura. Elle est responsable de la gestion technique et administrative, contribuant à l'organisation et à l'exécution du projet dans son ensemble.
