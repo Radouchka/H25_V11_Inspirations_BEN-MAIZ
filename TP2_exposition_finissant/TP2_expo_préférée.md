@@ -22,3 +22,8 @@ Quand un deuxième utilisateur entre et interagit avec une autre plaque, les eff
 
 ### Départ et retour au mode veille : 
 Dès que tous les utilisateurs quittent, l’installation passe en mode veille, avec des lumières adoucies et des sons apaisés, prête à accueillir de nouvelles interactions.
+<div>
+<img src="media/Fleurs_bleue.jpg" alt="exemple1">
+<img src="media/fleurs_volantes.jpg" alt="exemple2">
+<img src="media/exemple_lumieres.jpg" alt="exemple3">
+</div>
