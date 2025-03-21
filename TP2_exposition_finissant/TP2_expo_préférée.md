@@ -1,3 +1,3 @@
 # Luminatura
 
-![photo](
+![photo](media/experience_luminatura.jpg)
