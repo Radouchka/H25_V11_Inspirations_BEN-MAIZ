@@ -47,3 +47,16 @@ Logiciels :TouchDesigner (projections), Max (audio et ambiance),Reaper (montage 
 
 ### Les membres participants
 **Audrey Dandurand** est la directrice audiovisuelle et gestionnaire du projet LumiNatura. Elle est responsable de la gestion des aspects audiovisuels de l'installation, ce qui inclut la coordination des éléments sonores et visuels, afin de créer une expérience immersive cohérente et engageante pour les utilisateurs. **Camilia Bouatmani**, qui est la directrice artistique du projet LumiNatura. Elle est responsable de la vision créative et du design artistique de l'installation, dirigeant l'aspect visuel et esthétique de l'œuvre. **Ihab  Mouhajer** développeur interactif du projet LumiNatura. Il est responsable du développement des interactions technologiques au sein de l'installation, en particulier en ce qui concerne l'aspect interactif de l'œuvre, où les utilisateurs influencent les éléments lumineux et sonores par leur présence et leurs gestes. **Justine Rousseau** est programmeuse et coordonnatrice des médias pour le projet LumiNatura. Elle est responsable de la gestion des aspects techniques liés aux médias, ce qui inclut probablement la programmation et la coordination des éléments audiovisuels de l'installation. **Prethiah Rajaratnam** programmeuse et administratrice du projet LumiNatura. Elle est responsable de la gestion technique et administrative, contribuant à l'organisation et à l'exécution du projet dans son ensemble.
+
+## Mon Opinion personelle
+Selon moi, l’expo préférée que j’ai choisie et celle que j’ai trouvée visuellement la plus captivante est Luminatura. Le concept derrière étant créé des bruits et lumières dépendamment de combien de personnes participent à la dispositive et variée les réaction de chaque plaque métalique m’aspire beaucoup. Je trouve aussi que leur idée de mettre une touche technologique avec la nature pour crée cette ambiance marche bien. En effet, l’idée derrière est mise en épreuve parfaitement. L’utulisation de la technologie des capteurs qui détectent les particules électriques venant du corps sur la plaque métalique est un concept original. D’après Prethiah Rajaratnam, elle afirme idéalement que chaque individu possède une charge de cet énergie différente. Le moins il ya de charge le moins les illustrations de fontaines des fleurs est visible. C’est avec l’idée de regrouper plusieurs personnes ensembles par plaque pour pouvoir maximiser la capaciter de la visibilitée de chaque chute colorée grâce à un regroupement de particules électriques par plaque.
+
+## Éléments pas apprécier
+Le seule défaut que j’ai trouvé c’est par rapport à l’affichage sur le plancher. Je pense que le fait que les trois panneaux soient devant et cachent l’espace de cette projection nuit à l’expérience complete. C’est-à-dire que les panneau devraient être un peu plus en arrière pour permettre a l’utulisateur de remarquer la projection. D’après mon experience cela ma pris 7 minutes pour réaliser la projection par terre. Sinon le Projet de base est un succès.
+
+## Ressources
+<https://miaou-mafia.github.io/projet-luminatura/#/>
+<https://www.arduino.cc/>
+<https://fr.wikipedia.org/wiki/ESP32?utm_source=chatgpt.com>
+
+
