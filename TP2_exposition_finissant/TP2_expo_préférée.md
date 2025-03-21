@@ -9,3 +9,16 @@ Multimédia, qui est le programme dont j'étudie currently. L'installation qui m
 # Luminatura
 
 ![photo](media/experience_luminatura.jpg)
+
+## Experience de l'utulisation
+### Entrée dans l’espace :
+Lorsque l'utilisateur pénètre dans la salle, il est accueilli par un environnement immersif baigné de lanternes, d'ampoules suspendues, de vignes décoratives et d'une projection sur le sol. L'atmosphère est paisible, avec une lumière douce et des sons apaisants en fond.
+
+### Exploration et interaction avec les plaques métalliques :
+L'utilisateur aperçoit trois plaques métalliques et décide d’interagir avec l'une d’elles. Un capteur de capacitance détecte sa présence et ajuste la lumière et le son en fonction de son interaction.
+
+### Expérience multi-utilisateurs :
+Quand un deuxième utilisateur entre et interagit avec une autre plaque, les effets lumineux et sonores fusionnent, créant une véritable connexion entre les utilisateurs. Et si un troisième utilisateur fait son entrée, les effets deviennent encore plus dynamiques, intensifiant l'ambiance.
+
+### Départ et retour au mode veille : 
+Dès que tous les utilisateurs quittent, l’installation passe en mode veille, avec des lumières adoucies et des sons apaisés, prête à accueillir de nouvelles interactions.
