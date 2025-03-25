@@ -3,7 +3,7 @@
 ![photo](media/resonance.png)
 
 ## Résonance
-Le nom de l'exposition étant Résonance, elle débute le 17 mars jusqu'au 21 mars 2025. Cette exposition est temporaire puisqu'elle est située dans un cégep et non un musée. J'ai visité le musée le 18 mars 2025 et j'ai passé environ 1 heure à visiter chaque installation. Le sujet tourne autour du multimédia, qui est le programme que j'étudie actuellement. L'installation qui m'a intéressée le plus est Luminatura, qui est une installation interactive conçue par des étudiants du Cégep de Montmorency. L'exposition LumiNatura est une installation interactive qui fusionne la nature et la technologie en utilisant la capacitance pour modifier la lumière et le son en fonction de la présence et du toucher des utilisateurs.
+Le nom de l'exposition étant Résonance, elle débute le 17 mars jusqu'au 21 mars 2025. Cette exposition est temporaire puisqu'elle est située dans un cégep et non un musée. J'ai visité l'exposition le 18 mars 2025 et j'ai passé environ 1 heure à visiter chaque installation. Le sujet tourne autour du multimédia, qui est le programme que j'étudie actuellement. L'installation qui m'a intéressée le plus est Luminatura, qui est une installation interactive conçue par des étudiants du Cégep de Montmorency. L'exposition LumiNatura est une installation interactive qui fusionne la nature et la technologie en utilisant la capacitance pour modifier la lumière et le son en fonction de la présence et du toucher des utilisateurs.
 
 # Luminatura
 
