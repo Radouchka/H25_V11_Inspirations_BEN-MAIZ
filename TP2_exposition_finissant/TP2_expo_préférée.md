@@ -10,6 +10,9 @@ Le nom de l'exposition étant Résonance, elle débute le 17 mars jusqu'au 21 ma
 ![photo](media/experience_luminatura.jpg)
 
 ## Experience de l'utulisation
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/a63958f6-5b2c-4564-9f4b-a185fd5ecef6)
+
 ### Entrée dans l’espace :
 Lorsque l'utilisateur pénètre dans la salle, il est accueilli par un environnement immersif baigné de lanternes, d'ampoules suspendues, de vignes décoratives et d'une projection sur le sol. L'atmosphère est paisible, avec une lumière douce et des sons apaisants en fond.
 
