@@ -59,6 +59,6 @@ Le seul défaut que j’ai trouvé, c’est par rapport à l’affichage sur le 
 ## Ressources
 <https://miaou-mafia.github.io/projet-luminatura/#/>
 <https://www.arduino.cc/>
-<https://fr.wikipedia.org/wiki/ESP32?utm_source=chatgpt.com>
+<https://en.wikipedia.org/wiki/ESP32>
 
 
