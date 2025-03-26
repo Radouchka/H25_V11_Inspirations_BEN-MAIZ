@@ -53,6 +53,7 @@ La Réalité Augmentée superpose des éléments virtuels (images, objets 3D, in
 <https://ethereal-creators.github.io/Etheria/#/>
 
 ## Fuga
+![photo](media/logo_fuga.jpg)
 
 
 
