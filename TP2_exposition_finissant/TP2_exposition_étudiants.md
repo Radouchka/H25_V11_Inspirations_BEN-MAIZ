@@ -16,3 +16,7 @@ En entrant, une ambiance sonore et une sphère illuminée attirent l’attention
 Si le mouvement cesse, la végétation se rétracte, et l’expérience peut être recommencée.Il y a l'interactivité avec la sphère et la transformation progressive du tunnel qui captivent l’attention, créant une expérience immersive.
 
 ![photo](media/Internature_final.jpg)
+
+### Installation finale
+
+![photo](media/making_of_internature.jpg)
