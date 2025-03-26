@@ -84,7 +84,13 @@ Expérience immersive et surprenante. Chaque trait devient vivant à travers le 
 ![photo](media/prismaticia_02.jpg)
 ![photo](media/prismaticia_schema.png)
 
-
+### cours nécessaire pour réalisation du projet
+Installation multimédia, Audio 2 , Interactivité ludique
+### Technique technologique avancée , TouchDesigner
+TouchDesigner est un logiciel de programmation visuelle utilisé pour la création d’expériences interactives en temps réel. Il permet de générer et de manipuler des visuels, du son et des animations à partir de données externes, comme des caméras ou des capteurs.Fonctionnement dans Prismatica : dans ce projet, TouchDesigner analyse les dessins capturés par une caméra. Il détecte les formes et les couleurs, puis génère en temps réel des animations et des sons correspondant aux teintes utilisées.
+#### source : 
+<https://pootpookies.github.io/Prismatica/#/>
+## CON-DU8
 
 
 
