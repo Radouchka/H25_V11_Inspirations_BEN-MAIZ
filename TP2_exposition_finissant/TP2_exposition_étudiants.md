@@ -4,7 +4,7 @@ Dans ce fichier, je vais parler des expositions que j'ai pris en note durant l'e
 ## InterNature 
 ![photo](media/Internature_02.jpg)
 
-### Internature, l'équipe et l'oeuvre
+### Internature, l'équipe et l'Oeuvre
 Intern est une expérience interactive où le mouvement d’une sphère lumineuse transforme un environnement numérique en perpétuelle évolution.
 
 ![photo](media/equipe_internature.png)
@@ -33,7 +33,7 @@ Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur d
 
 ## Étheria
 ![photo](media/etheria_03.png)
-### Étheria, l'équipe et l'oeuvre
+### Étheria, l'équipe et l'Oeuvre
 Etheria est un jeu interactif en pixel art basé sur la défense de la Pierre des Tera contre des vagues d'ennemis.
 ![photo](media/etheria_groupe.png)
 
@@ -72,8 +72,18 @@ Audio 2 , web (4-5), Préparation au milieu de travail ( je pense que la majorit
 La synthèse sonore interactive consiste à utiliser un synthétiseur ou un autre dispositif audio pour générer des sons qui modifient des éléments visuels en temps réel. Dans Fuga, cette technique permet à l’interacteur de contrôler la croissance et la forme de l’arbre en fonction des sons qu’il génère, en jouant sur les fréquences, les tonalités et les effets.
 #### source
 <https://escapism-fuga.github.io/Fuga/#/>
-## Prismaticia
-![photo](media/prismaticia_logo.png)
+## Prismatica
+![photo](media/prismatica_logo.png)
+### Prismatica, l'équipe et l'Oeuvre
+Prismatica est un projet interactif qui explore la relation entre le dessin et le son en s'inspirant de la synesthésie (perception croisée des sens, comme voir des sons). Le projet utilise le cercle chromatique de Newton, qui associe chaque couleur à une fréquence sonore, pour créer une expérience immersive où les couleurs dessinées produisent des sons correspondants.
+![photo](media/prismaticia_equipe.png)
+### L'éxperience
+Expérience immersive et surprenante. Chaque trait devient vivant à travers le son et l’image. Sensation de fusion entre l’art et la technologie, où chaque geste crée une œuvre unique et évolutive. Chaque couleur produit un son diffèrent dépendamment où l'utulisateur dessine. Le bruit change  aussi dépendamment de la quantité de couleur présente sur le tableau.
+![photo](media/prismaticia_01.jpg)
+### L'Installation
+![photo](media/prismaticia_02.png)
+![photo](media/maquette_prismaticia.jpg)
+![photo](media/prismaticia_schema.png)
 
 
 
