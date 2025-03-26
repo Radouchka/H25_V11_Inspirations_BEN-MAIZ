@@ -107,8 +107,22 @@ Développée initialement par Microsoft pour la Xbox, la Kinect est un capteur d
 #### source
 <https://gearshift-games.github.io/Web-C0N-DU8/#/>
 ## Arcadia
-
-
+![photo](media/arcadia_menu.png)
+### Arcadia, l'équipe et l'Oeuvre
+Arcadia est un projet interactif recréant l’expérience des jeux d’arcade rétro.
+![photo](media/Arcadia_equipe.png)
+### L'éxperience
+L’expérience est immersive et captivante.Le "gameplay", bien que simple, est engageant grâce aux mécaniques accessibles mais stimulantes.La boîte en bois en forme de machine de jeux retro donne une experience réeliste (bâton de mouvement et les trois boutons)
+![photo](media/arcadia_machine.jpg)
+### Installation
+![photo](media/arcadia_schema.png)
+![photo](media/composantes_arcadia.jpg)
+### cours nécessaire pour réalisation du projet
+web (3-5) , Audio 2, Installation multimédia
+### Technique avancée , la boîte en bois
+Structure en bois : La boîte en bois sert de base pour la borne. Cela donne un aspect classique et rétro. Mais l'Installation de l'ordinateur et de l'ecran marche comment? Alors, tout d'abord un écran est placé dans la borne, sur lequel le jeu est projeté pour permettre aux utilisateurs de jouer directement sur l'appareil.Le joueur interagit avec le jeu via un joystick et des boutons physiques. Leur utulisation sert à permettre de déplacer le personnage du jeu, et les boutons permettent d'attaquer et de sauter.
+#### source 
+<https://cousi-cousa.github.io/Arcadia/#/>
 
 
 
