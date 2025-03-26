@@ -37,7 +37,7 @@ Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur d
 Etheria est un jeu interactif en pixel art basé sur la défense de la Pierre des Tera contre des vagues d'ennemis.
 ![photo](media/etheria_groupe.png)
 
-### L'Expérience
+### L'éxpérience
 L’aspect multijoueur et stratégique soulève des attentes sur la communication entre joueurs. La difficulté croissante et les vagues d’ennemis ajoutent du stress positif, renforçant l’envie de rejouer. Une expérience dynamique et engageante, en se posant aussi des questions comme : Comment la détection des pions fonctionne-t-elle ? Le jeu sera-t-il réactif et fluide ? La technique de l’usage de figurines physiques pour influencer l’univers numérique aussi ammène de la curiausitée au jouer.
 ![photo](media/etheria_01.jpg)
 
@@ -55,6 +55,16 @@ La Réalité Augmentée superpose des éléments virtuels (images, objets 3D, in
 ## Fuga
 ![photo](media/logo_fuga.jpg)
 
+### Fuga, l'équipe et l'Oeuvre
+Fuga est un projet interactif visant à générer des arbres personnalisés en fonction du son créé par l’utilisateur. Ce projet met en scène un groupe de scientifiques qui ont conçu une plante sensible aux fréquences sonores et aux vibrations pour sauver la planète de l’industrialisation.
+![photo](media/fuga_equipe.png)
+### L'éxperience
+L'idée d'un générateur d'arbres interactif réagissant au son semble originale. La combinaison de nature et technologie dans un environnement sonore m'intéresse particulièrement.Pouvoir voir un arbre se développer et changer en fonction de mes actions est fascinant. La personnalisation sonore ajoute une couche unique à l’expérience , aussi l'accisibilitée pour de 3 personnes et plus est un concept unissant.
+![photo](media/installation_fuga.jpg)
+### L'Installation
+![photo](media/fuga_making.png)
+![photo](media/schema_fuga1.png)
+![photo](media/schema_fuga2.png)
 
 
 
