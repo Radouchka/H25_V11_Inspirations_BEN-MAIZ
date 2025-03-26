@@ -14,4 +14,5 @@ Intern est une expérience interactive où le mouvement d’une sphère lumineus
 En entrant, une ambiance sonore et une sphère illuminée attirent l’attention.En tournant la sphère, des vignes et des fleurs numériques poussent sur les côter.Une fois les murs recouverts, les fleurs deviennent interactives : en les touchant, leurs pétales s’éparpillent.
 
 Si le mouvement cesse, la végétation se rétracte, et l’expérience peut être recommencée.Il y a l'interactivité avec la sphère et la transformation progressive du tunnel qui captivent l’attention, créant une expérience immersive.
-![photo](media/Internature_final)
+
+![photo](media/Internature_final.jpg)
