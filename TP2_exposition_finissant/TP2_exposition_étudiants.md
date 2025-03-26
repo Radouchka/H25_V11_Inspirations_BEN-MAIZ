@@ -100,6 +100,14 @@ L'idée de combiner sport et jeu vidéo est intrigante, surtout avec une mécani
 ![photo](media/velo_demo.png)
 ### Schema d'Installation
 ![photo](media/schema_velo.png)
+### cours nécessaire pour réalisation du projet
+Interactivité ludique, Objets interactifs , réalitée mixte
+### Technique technologique avancée , la Kinect 
+Développée initialement par Microsoft pour la Xbox, la Kinect est un capteur de mouvement qui détecte les gestes et la position du corps en 3D, sans nécessiter de manette. Elle utilise :Une caméra infrarouge pour capturer la profondeur.Un capteur RGB pour l’image classique.Un microphone pour la reconnaissance vocale.Dans ce projet, la Kinect sert à suivre les déplacements latéraux du joueur sur le vélo stationnaire. Elle capte :La position du corps pour savoir s’il bouge à gauche ou à droite.Les mouvements en temps réel pour ajuster l’interaction avec le jeu.
+#### source
+<https://gearshift-games.github.io/Web-C0N-DU8/#/>
+## Arcadia
+
 
 
 
