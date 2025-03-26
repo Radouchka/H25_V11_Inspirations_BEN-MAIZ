@@ -23,3 +23,8 @@ Si le mouvement cesse, la végétation se rétracte, et l’expérience peut êt
 ![photo](media/plantation_serre_3d_Internature.jpg)
 ![photo](media/plantation_sphere_interNature.jpg)
 ![photo](media/plantation_studio_InterNature.jpg)
+
+### cours nécessaires pour réalisation du projet
+traitement audiovisuel , Audio 2 , Objets Interactif , web 4
+### Technique technologique avancée , le Mapping
+Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur des objets 3D (murs, sculptures, tunnels) pour transformer leur apparence en temps réel. L’ajout de capteurs de mouvement permet de rendre ces projections interactives : les éléments réagissent aux gestes du spectateur, créant une expérience immersive et dynamique.
