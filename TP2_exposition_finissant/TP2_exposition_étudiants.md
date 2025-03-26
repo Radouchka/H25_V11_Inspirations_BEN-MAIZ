@@ -29,3 +29,29 @@ traitement audiovisuel , Audio 2 , Objets Interactif , web 4
 ### Technique technologique avancée , le Mapping
 Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur des objets 3D (murs, sculptures, tunnels) pour transformer leur apparence en temps réel. L’ajout de capteurs de mouvement permet de rendre ces projections interactives : les éléments réagissent aux gestes du spectateur, créant une expérience immersive et dynamique.
 #### source : https://tprangers.github.io/internature/#/ 
+
+## Étheria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
