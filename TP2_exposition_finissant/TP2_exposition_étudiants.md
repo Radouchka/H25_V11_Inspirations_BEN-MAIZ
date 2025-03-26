@@ -66,7 +66,13 @@ L'idée d'un générateur d'arbres interactif réagissant au son semble original
 ![photo](media/schema_fuga1.png)
 ![photo](media/schema_fuga2.png)
 
-
+### cours nécessaire pour réalisation du projet
+Audio 2 , web (4-5), Préparation au milieu de travail ( je pense que la majoritée des cours des session 4-5 sont importants)
+### Technique technologique avancée , la synthèse sonore interactive 
+La synthèse sonore interactive consiste à utiliser un synthétiseur ou un autre dispositif audio pour générer des sons qui modifient des éléments visuels en temps réel. Dans Fuga, cette technique permet à l’interacteur de contrôler la croissance et la forme de l’arbre en fonction des sons qu’il génère, en jouant sur les fréquences, les tonalités et les effets.
+#### source
+<https://escapism-fuga.github.io/Fuga/#/>
+## Prismaticia
 
 
 
