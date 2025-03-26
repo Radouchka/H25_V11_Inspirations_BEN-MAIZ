@@ -91,7 +91,12 @@ TouchDesigner est un logiciel de programmation visuelle utilisé pour la créati
 #### source : 
 <https://pootpookies.github.io/Prismatica/#/>
 ## CON-DU8
-
+![photo](media/c0ndu8_01.png)
+### CON-DU8, l'équipe et l'Oeuvre
+Conduite est une œuvre interactive développée par l’équipe Girlshift Games dans le cadre d’un cours d’expérience multimédia interactive. Le projet allie jeu vidéo et activité physique en proposant une expérience immersive et dynamique.
+![photo](media/equipe_velo.jpg)
+### L'éxperience
+L'idée de combiner sport et jeu vidéo est intrigante, surtout avec une mécanique de <<battle royale >> et un univers inspiré de <<Tron>>. L’aspect endurance et explosion en cas d’échec laisse penser à un challenge physique intéressant./ competitivitée/ plusieurs niveau , difficultée élevée
 
 
 
