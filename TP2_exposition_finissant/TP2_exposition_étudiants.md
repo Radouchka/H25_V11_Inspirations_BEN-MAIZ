@@ -17,7 +17,7 @@ Si le mouvement cesse, la végétation se rétracte, et l’expérience peut êt
 
 ![photo](media/Internature_final.jpg)
 
-### Installation finale
+### Installation 
 
 ![photo](media/making_of_internature.png)
 ![photo](media/plantation_serre_3d_Internature.jpg)
@@ -41,7 +41,7 @@ Etheria est un jeu interactif en pixel art basé sur la défense de la Pierre de
 L’aspect multijoueur et stratégique soulève des attentes sur la communication entre joueurs. La difficulté croissante et les vagues d’ennemis ajoutent du stress positif, renforçant l’envie de rejouer. Une expérience dynamique et engageante, en se posant aussi des questions comme : Comment la détection des pions fonctionne-t-elle ? Le jeu sera-t-il réactif et fluide ? La technique de l’usage de figurines physiques pour influencer l’univers numérique aussi ammène de la curiausitée au jouer.
 ![photo](media/etheria_01.jpg)
 
-### Installation finale
+### Installation 
 ![photo](media/setup_etheria.png)
 ![photo](media/plantation_etheria.jpg)
 
@@ -51,6 +51,9 @@ Interactivité ludique, Instalation multimédia , Objet Interactifs
 La Réalité Augmentée superpose des éléments virtuels (images, objets 3D, informations) à l’environnement réel en temps réel. Dans Etheria, une webcam est utilisée pour détecter les pions placés sur la table, intégrant les mouvements des joueurs dans un monde numérique projeté. Cette interaction fluide entre les objets physiques et les projections numériques est un exemple classique de RA appliquée dans les jeux.
 #### source
 <https://ethereal-creators.github.io/Etheria/#/>
+
+## Fuga
+
 
 
 
