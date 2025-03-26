@@ -73,6 +73,7 @@ La synthèse sonore interactive consiste à utiliser un synthétiseur ou un autr
 #### source
 <https://escapism-fuga.github.io/Fuga/#/>
 ## Prismaticia
+![photo](media/prismaticia_logo.png)
 
 
 
