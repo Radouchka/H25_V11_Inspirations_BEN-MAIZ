@@ -81,8 +81,7 @@ Prismatica est un projet interactif qui explore la relation entre le dessin et l
 Expérience immersive et surprenante. Chaque trait devient vivant à travers le son et l’image. Sensation de fusion entre l’art et la technologie, où chaque geste crée une œuvre unique et évolutive. Chaque couleur produit un son diffèrent dépendamment où l'utulisateur dessine. Le bruit change  aussi dépendamment de la quantité de couleur présente sur le tableau.
 ![photo](media/prismaticia_01.jpg)
 ### L'Installation
-![photo](media/prismaticia_02.png)
-![photo](media/maquette_prismaticia.jpg)
+![photo](media/prismaticia_02.jpg)
 ![photo](media/prismaticia_schema.png)
 
 
