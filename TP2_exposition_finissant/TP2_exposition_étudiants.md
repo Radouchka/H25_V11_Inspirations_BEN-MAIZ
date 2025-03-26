@@ -36,6 +36,9 @@ Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur d
 Etheria est un jeu interactif en pixel art basé sur la défense de la Pierre des Tera contre des vagues d'ennemis.
 ![photo](media/etheria_groupe.png)
 
+## L'Expérience
+L’aspect multijoueur et stratégique soulève des attentes sur la communication entre joueurs. La difficulté croissante et les vagues d’ennemis ajoutent du stress positif, renforçant l’envie de rejouer. Une expérience dynamique et engageante, en se posant aussi des questions comme : Comment la détection des pions fonctionne-t-elle ? Le jeu sera-t-il réactif et fluide ? La technique de l’usage de figurines physiques pour influencer l’univers numérique aussi ammène de la curiausitée au jouer.
+![photo](media/etheria_01.jpg)
 
 
 
