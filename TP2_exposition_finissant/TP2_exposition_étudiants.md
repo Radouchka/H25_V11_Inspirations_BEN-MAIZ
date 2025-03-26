@@ -24,11 +24,12 @@ Si le mouvement cesse, la végétation se rétracte, et l’expérience peut êt
 ![photo](media/plantation_sphere_interNature.jpg)
 ![photo](media/plantation_studio_InterNature.jpg)
 
-### cours nécessaires pour réalisation du projet
+### cours nécessaire pour réalisation du projet
 traitement audiovisuel , Audio 2 , Objets Interactif , web 4
 ### Technique technologique avancée , le Mapping
 Le mapping vidéo (ou projection mapping) consiste à projeter des visuels sur des objets 3D (murs, sculptures, tunnels) pour transformer leur apparence en temps réel. L’ajout de capteurs de mouvement permet de rendre ces projections interactives : les éléments réagissent aux gestes du spectateur, créant une expérience immersive et dynamique.
-#### source : https://tprangers.github.io/internature/#/ 
+#### source 
+<https://tprangers.github.io/internature/#/> 
 
 ## Étheria
 ![photo](media/etheria_03.png)
@@ -44,7 +45,12 @@ L’aspect multijoueur et stratégique soulève des attentes sur la communicatio
 ![photo](media/setup_etheria.png)
 ![photo](media/plantation_etheria.jpg)
 
-
+### cours nécessaire pour réalisation du projet
+Interactivité ludique, Instalation multimédia , Objet Interactifs
+### Technique technologique avancée , la réalité augmentée
+La Réalité Augmentée superpose des éléments virtuels (images, objets 3D, informations) à l’environnement réel en temps réel. Dans Etheria, une webcam est utilisée pour détecter les pions placés sur la table, intégrant les mouvements des joueurs dans un monde numérique projeté. Cette interaction fluide entre les objets physiques et les projections numériques est un exemple classique de RA appliquée dans les jeux.
+#### source
+<https://ethereal-creators.github.io/Etheria/#/>
 
 
 
