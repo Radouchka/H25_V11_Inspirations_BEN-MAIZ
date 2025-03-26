@@ -20,3 +20,4 @@ Si le mouvement cesse, la végétation se rétracte, et l’expérience peut êt
 ### Installation finale
 
 ![photo](media/making_of_internature.png)
+![photo](media/making_of_internature.png)
