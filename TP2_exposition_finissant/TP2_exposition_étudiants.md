@@ -112,7 +112,7 @@ Développée initialement par Microsoft pour la Xbox, la Kinect est un capteur d
 Arcadia est un projet interactif recréant l’expérience des jeux d’arcade rétro.
 ![photo](media/Arcadia_equipe.png)
 ### L'éxperience
-L’expérience est immersive et captivante.Le "gameplay", bien que simple, est engageant grâce aux mécaniques accessibles mais stimulantes.La boîte en bois en forme de machine de jeux retro donne une experience réeliste (bâton de mouvement et les trois boutons)
+L’expérience est immersive et captivante.Le "gameplay", bien que simple, est engageant grâce aux mécaniques accessibles mais stimulantes.La boîte en bois en forme de machine de jeux retro donne une experience réeliste (bâton de mouvement et les deux boutons)
 ![photo](media/arcadia_machine.jpg)
 ### Installation
 ![photo](media/arcadia_schema.png)
