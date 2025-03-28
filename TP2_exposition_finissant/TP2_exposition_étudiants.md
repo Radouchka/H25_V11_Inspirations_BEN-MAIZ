@@ -59,7 +59,7 @@ La Réalité Augmentée superpose des éléments virtuels (images, objets 3D, in
 Fuga est un projet interactif visant à générer des arbres personnalisés en fonction du son créé par l’utilisateur. Ce projet met en scène un groupe de scientifiques qui ont conçu une plante sensible aux fréquences sonores et aux vibrations pour sauver la planète de l’industrialisation.
 ![photo](media/fuga_equipe.png)
 ### L'éxperience
-L'idée d'un générateur d'arbres interactif réagissant au son semble originale. La combinaison de nature et technologie dans un environnement sonore m'intéresse particulièrement.Pouvoir voir un arbre se développer et changer en fonction de mes actions est fascinant. La personnalisation sonore ajoute une couche unique à l’expérience , aussi l'accisibilitée pour de 3 personnes et plus est un concept unissant.
+L'idée d'un générateur d'arbres interactif réagissant au son semble originale. La combinaison de nature et technologie dans un environnement sonore m'intéresse particulièrement.Pouvoir voir un arbre se développer et changer en fonction de mes actions est fascinant. La personnalisation sonore ajoute une couche unique à l’expérience , aussi l'accisibilitée pour deux ou 3 personnes et plus est un concept unissant.
 ![photo](media/installation_fuga.jpg)
 ### L'Installation
 ![photo](media/fuga_making.png)
