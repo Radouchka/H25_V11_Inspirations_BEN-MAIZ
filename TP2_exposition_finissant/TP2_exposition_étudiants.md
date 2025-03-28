@@ -5,7 +5,7 @@ Dans ce fichier, je vais parler des expositions que j'ai pris en note durant l'e
 ![photo](media/Internature_02.jpg)
 
 ### Internature, l'équipe et l'Oeuvre
-Internature est une expérience interactive où le mouvement d’une sphère lumineuse transforme un environnement numérique en perpétuelle évolution.
+Internature est une expérience interactive où le mouvement d’une sphère lumineuse transforme un environnement numérique en évolution.
 
 ![photo](media/equipe_internature.png)
 
