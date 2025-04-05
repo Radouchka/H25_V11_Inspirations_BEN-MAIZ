@@ -17,4 +17,5 @@ La conférence nous a vraiment permis de découvrir l’univers technique et art
 
 Voici une des œuvres dont j'ai trouvé le concept et la fabrication intéressants.
 *credit : Rafael Lozano-Hemmer, "Shadow Tuner", 2023.*  *Photo prise par:  Lance Gerber.* *Lieu :  Abu Dhabi, United Arab Emirates, 2023.*
-Ressource : <https://www.lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=5>
+Ressources : <https://www.lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=5>
+<https://www.lozano-hemmer.com/shadow_tuner.php>
