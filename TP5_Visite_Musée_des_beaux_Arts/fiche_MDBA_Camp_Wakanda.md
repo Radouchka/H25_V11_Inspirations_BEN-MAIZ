@@ -16,9 +16,6 @@ Le 4 avril 2025, j'ai visité le musée des beaux-arts de Montréal.Le musée n'
 ### Le sujet et l'éxperience
 Le sujet de l’exposition tourne autour de la mémoire personnelle, de l’enfance, et de la reconstruction poétique du passé. D'explorer la mémoire et les souvenirs d’enfance à travers une installation multimédia mêlant maquette, animation et son. L’artiste revisite un camp d’été de son passé, non pas pour documenter, mais pour réinterpréter émotionnellement cette période.
 
-![photo](media/cartel_credit.jpg)
-
-
 ## Technologie et Multimédia
 ![photo](media/croquis_technique_de_l'Oeuvre.jpg) 
 *Un croquis technique de l'œuvre*
