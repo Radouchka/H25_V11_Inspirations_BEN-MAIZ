@@ -11,6 +11,6 @@ Le 4 avril 2025, j'ai visité le musée des beaux-arts de Montréal.Le musée n'
 
 À l'intérieur, des mécanismes motorisés donnent vie aux scènes : des personnages en mouvement, des lumières qui s’allument, des sons ambiants de la nature, ou des extraits audio narratifs. Le tout est orchestré avec une précision cinématographique, souvent accompagnée de séquences en stop-motion projetées ou visibles à travers des hublots, comme si l’on regardait un souvenir figé dans le temps.
 
-![photo](media/Expo_permanent_maison.png)
+![photo](media/camp_wakanda_permanent.jpg)
 
 
