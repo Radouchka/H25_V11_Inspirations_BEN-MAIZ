@@ -7,13 +7,32 @@ Le 4 avril 2025, j'ai visité le musée des beaux-arts de Montréal.Le musée n'
 ![photo](media/moi_devant_une_oeuvre_de_l'expo.jpg)
 *photo de moi devant une œuvre au musée*
 ## Camp Wakanda
-"Camp Wakonda" est une installation immersive créée par l’artiste canadien Graeme Patterson, connu pour son travail en animation stop-motion, sculpture, maquette et installation.C'est une exposition permanente.L’œuvre prend la forme d’une grande maquette interactive, semblable à une boîte ou un diorama géant. Elle représente un paysage de camp d'été / forêt/ cabanes/ lacs dans une version miniature, détaillée et un peu fantastique.
+"Camp Wakonda" est une installation immersive créée en 2010 par l’artiste canadien Graeme Patterson, connu pour son travail en animation stop-motion, sculpture, maquette et installation.C'est une exposition permanente.L’œuvre prend la forme d’une grande maquette interactive, semblable à une boîte ou un diorama géant. Elle représente un paysage de camp d'été / forêt/ cabanes/ lacs dans une version miniature, détaillée et un peu fantastique.
 
 À l'intérieur, des mécanismes motorisés donnent vie aux scènes : des personnages en mouvement, des lumières qui s’allument, des sons ambiants de la nature, ou des extraits audio narratifs. Le tout est orchestré avec une précision cinématographique, souvent accompagnée de séquences en stop-motion projetées ou visibles à travers des hublots, comme si l’on regardait un souvenir figé dans le temps.
 
 ![photo](media/camp_wakanda_permanent.jpg)
 
+## Technologie et Multimédia
 ![photo](media/croquis_technique_de_l'Oeuvre.jpg) 
 *Un croquis technique de l'œuvre*
+**Composantes** : Maquette miniature/Objets motorisés ,Certains éléments bougent : personnages, lumières, structures./ Éléments visuels animé , Séquences en stop-motion / Système sonore / Éclairage intégré / Dispositifs de vision (Fenêtres ou écrans ) 
+**Techniques** :  Animation en stop-motion/ Sculpture ,modélisme / Mécanismes motorisés / Design sonore / Installation spatiale. 
+À l'aide de plusieurs recherches, j'ai été capable de déterminer chaque composantes nécessaires pour la réalisation de l'oeuvre.
+
+•	Socle robuste pour supporter la maquette (poids + stabilité)
+•	Caisson fermé ou structure vitrée (selon la version), pour protéger l’œuvre
+•	Cache-fils pour dissimuler les branchements visibles
+•	Herses (barres suspendues au plafond) pour suspendre l’éclairage directionnel
+•	Projecteurs LED orientés sur des zones précises de la maquette
+•	Éclairage intégré dans l’œuvre (petites lampes ou LED dans la maquette)
+•	Multiprises et câbles électriques pour alimenter :
+→ les moteurs, les animations, le son, les écrans
+•	Boîtiers de contrôle ou interfaces informatiques (pour l’animation vidéo)
+•	Système audio discret (haut-parleurs cachés dans l’installation ou la salle)
+•	Barrières basses ou marquages au sol pour délimiter l’espace d’observation
+Pour un visuel , voir le dossier Media.
+
+![video_démonstration (1)](https://github.com/user-attachments/assets/e2094fba-090c-4b75-8fea-f54aecd80345)
 
 
