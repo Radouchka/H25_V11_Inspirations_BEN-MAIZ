@@ -15,7 +15,12 @@ Le 4 avril 2025, j'ai visité le musée des beaux-arts de Montréal.Le musée n'
 
 ### Le sujet et l'éxperience
 Le sujet de l’exposition tourne autour de la mémoire personnelle, de l’enfance, et de la reconstruction poétique du passé. D'explorer la mémoire et les souvenirs d’enfance à travers une installation multimédia mêlant maquette, animation et son. L’artiste revisite un camp d’été de son passé, non pas pour documenter, mais pour réinterpréter émotionnellement cette période.
-![photo](media/cartel_credit.jpg)
+*voir le cartel dans le dossier media*
+Le but principal de l'oeuvre étant Faire ressentir la mémoire comme une expérience sensorielle, immersive et émotionnelle.  L’œuvre parle d’un souvenir personnel, mais chacun peut y projeter ses propres souvenirs. On ne regarde pas seulement une œuvre : on entre dans un univers mental, comme un rêve.
+#### l'éxperience
+Lorsqu’un visiteur entre dans l’espace d’exposition de Camp Wakonda, il est d’abord frappé par l’ambiance immersive : lumière tamisée, sons discrets de la nature, et une structure centrale qui attire immédiatement l’attention.
+Le spectateur est invité à circuler autour de l’installation sans interaction tactile. Il observe la maquette de près, découvre des fenêtres ou écrans intégrés qui diffusent des scènes animées (stop-motion), et perçoit des éléments en mouvement.
+
 
 ## Technologie et Multimédia
 ![photo](media/croquis_technique_de_l'Oeuvre.jpg) 
