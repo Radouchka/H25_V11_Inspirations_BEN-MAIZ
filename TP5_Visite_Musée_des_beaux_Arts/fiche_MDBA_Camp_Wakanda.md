@@ -51,7 +51,7 @@ Les couleurs et le décor sont les aspects qui m’attirent le plus.
 
 ## Éléments plus ou moins appréciés
 En général, l’expérience m’a plu, sauf pour quelques détails. Le son émis par chaque animation me rend confus·e. Il y a tellement de bruits qui se produisent en même temps que j’ai un peu de difficulté à me concentrer sur une seule.
-Un deuxième élément concerne les nombreuses petites barrières au deuxième étage des cabanes. Il y a beaucoup trop de morceaux de bois et, puisqu’il y a une limite inscrite au sol, il est difficile de s’approcher pour bien voir les animations du haut.
+Un deuxième élément concerne les nombreuses petites barrières au deuxième étage des cabanes. Il y a beaucoup trop de morceaux de bois et, considérant qu’il y a une limite inscrite au sol, il est difficile de s’approcher pour bien voir les animations du haut.
 Il me semble aussi que, selon la taille de la personne, si elle souhaite voir ce qui est projeté en hauteur mais n’est pas assez grande, ce facteur peut gâcher un peu l’expérience.
 Sinon, c’est une exposition réussie !
 
