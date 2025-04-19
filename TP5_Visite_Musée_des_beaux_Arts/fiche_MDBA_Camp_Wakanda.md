@@ -44,4 +44,16 @@ Pour un visuel , voir le dossier Media.
 
 ![video_démonstration (1)](https://github.com/user-attachments/assets/e2094fba-090c-4b75-8fea-f54aecd80345)
 
+## Éléments appréciés
+Tout d’abord, l’expérience peut sembler adorable. Les deux cabanes, chacune avec un deuxième étage, m’ont rappelé les maisons de poupées. Les projecteurs, qui semblent être en petit format, me donnent l’impression que cette exposition reflète un petit univers.
+Chaque animation en stop motion correspond au décor de cette maison. J’aime bien cela, et je trouve que l’artiste réussit à refléter son idée.
+Les couleurs et le décor sont les aspects qui m’attirent le plus.
 
+## Éléments plus ou moins appréciés
+En général, l’expérience m’a plu, sauf pour quelques détails. Le son émis par chaque animation me rend confus·e. Il y a tellement de bruits qui se produisent en même temps que j’ai un peu de difficulté à me concentrer sur une seule.
+Un deuxième élément concerne les nombreuses petites barrières au deuxième étage des cabanes. Il y a beaucoup trop de morceaux de bois et, puisqu’il y a une limite inscrite au sol, il est difficile de s’approcher pour bien voir les animations du haut.
+Il me semble aussi que, selon la taille de la personne, si elle souhaite voir ce qui est projeté en hauteur mais n’est pas assez grande, ce facteur peut gâcher un peu l’expérience.
+Sinon, c’est une exposition réussie !
+
+sources :
+<https://www.graemepatterson.com/Camp%20Wakonda.htm> , <https://galerie.uqam.ca/en/expositions/graeme-patterson-secret-citadel> , <https://confederationcentre.com/exhibition/graeme-patterson-secret-citadel> , <https://www.gallerieswest.ca/magazine/stories/graeme-patterson/>
