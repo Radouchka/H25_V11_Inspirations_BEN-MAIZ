@@ -18,3 +18,14 @@ Petit à petit, on comprend que tout est connecté : ce qu’on jette, ce qu’o
 
 ## Technologie et Multimédia
 ![photo](Media/shéma_croquis.jpg)
+*Croquis de l'oeuvre*
+Deux projecteurs à courte focale sont installés au plafond, juste au-dessus de l’œuvre. Ils projettent directement sur le mur, sans ombre ni déformation, ce qui permet une intégration fluide des animations à l’illustration murale.Le contenu animé a été réalisé par Carine Khalife, une illustratrice et animatrice. Son style est organique et fluide, en parfaite harmonie avec les dessins fixes de Laurent Pinabel, l’illustrateur.
+
+Les animations sont :des gouttes de pluie tombent et pénètrent le sol ; des nuages passent lentement dans le ciel ; des camions avancent en silence sur les routes ; l’eau bouge doucement, simulant le courant ; des feuilles tombent ou frémissent, animant les arbres stylisés. Il y a des haut-parleurs mais il n'y a pas de grands bruits, plutot une ambiance douce. Bref, Le choix du multimédia permet de :
+animer le savoir scientifique sans surcharge ;
+captiver l’attention des enfants comme des adultes ;
+créer un lien émotionnel avec des thématiques environnementales.
+
+## Les Artistes
+
+
