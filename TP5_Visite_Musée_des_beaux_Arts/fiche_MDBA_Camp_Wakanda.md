@@ -44,6 +44,9 @@ Pour un visuel , voir le dossier Media.
 
 ![video_démonstration (1)](https://github.com/user-attachments/assets/e2094fba-090c-4b75-8fea-f54aecd80345)
 
+## À propos de l'artiste
+Graeme Patterson est un artiste visuel canadien né en 1980 à Saskatoon. Il vit actuellement à Sackville, au Nouveau-Brunswick. Il est connu pour ses installations mêlant sculpture, animation image par image, maquettes, sons et technologies interactives. Son travail explore la mémoire, la nostalgie et l'identité, souvent à partir de souvenirs personnels.Il a étudié les arts en Ontario, en Saskatchewan et en Nouvelle-Écosse. Parmi ses œuvres majeures, on retrouve Woodrow et Secret Citadel. Il a été finaliste à plusieurs reprises du prix Sobey et ses œuvres figurent dans de grandes collections canadiennes.
+
 ## Éléments appréciés
 Tout d’abord, l’expérience peut sembler adorable. Les deux cabanes, chacune avec un deuxième étage, m’ont rappelé les maisons de poupées. Les projecteurs, qui semblent être en petit format, me donnent l’impression que cette exposition reflète un petit univers.
 Chaque animation en stop motion correspond au décor de cette maison. J’aime bien cela, et je trouve que l’artiste réussit à refléter son idée.
