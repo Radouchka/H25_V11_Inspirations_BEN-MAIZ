@@ -25,7 +25,12 @@ Les animations sont :des gouttes de pluie tombent et pénètrent le sol ; des nu
 animer le savoir scientifique sans surcharge ;
 captiver l’attention des enfants comme des adultes ;
 créer un lien émotionnel avec des thématiques environnementales.
+![photo](Media/projecteurs_et_micros.jpg)
 
 ## Les Artistes
+###  Laurent Pinabel – Illustrateur et concepteur graphique
+Laurent Pinabel est un illustrateur et designer graphique français installé à Montréal. Il se distingue par un style graphique épuré, symbolique et narratif, souvent inspiré par la nature, la science et la société.Il collabore régulièrement avec des institutions culturelles et muséales, notamment pour des expositions éducatives.Son travail se caractérise par une volonté de rendre l’information accessible visuellement, avec des illustrations claires, poétiques et signifiantes.Il a aussi enseigné à l’Université du Québec à Montréal (UQAM), dans le domaine du design graphique.
 
+### Carine Khalife – Illustratrice et animatrice
+Carine Khalife est une artiste multidisciplinaire, née à Paris et basée à Montréal. Elle travaille comme illustratrice, animatrice et réalisatrice.Son style est onirique et fluide, mêlant peinture, textures naturelles et animation image par image.Elle a réalisé des clips musicaux, des courts-métrages, ainsi que des animations pour des expositions et des installations multimédia.Carine cherche à créer une émotion visuelle, en explorant la matière, le mouvement et la sensibilité humaine.Son univers est souvent qualifié de poétique et sensoriel.
 
