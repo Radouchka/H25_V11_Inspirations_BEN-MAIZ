@@ -9,3 +9,11 @@ Le 21 février 2025, j'ai visitée l'exposition permanente du Musée : 4, 3, 2, 
 ## 4, 3, 2, 1... Santé!
 Illustrée par Laurent Pinabel, avec des animations de Carine Khalife, cette oeuvre visuelle et interactive s’étale horizontalement sur un mur, sous deux projecteurs. Elle représente une ligne noire continue stylisée, semblable à une branche ou une veine, traversant divers environnements. Elle illustre l’interdépendance entre l’environnement naturel, les milieux urbains, les actions humaines et leurs impacts sur la santé. Elle vise à sensibiliser les visiteurs à l’effet de nos modes de vie sur la santé humaine et celle de la planète. L’œuvre met en lumière les liens entre environnement, urbanisation, et santé publique, tout en offrant des pistes d’action accessibles.
 ![photo](Media/cartel_de_l'expo.jpg)
+
+## L'Éxpérience vécue
+Dès qu’on entre dans la salle, deux projecteurs diffusent une fresque animée sur un mur pâle. On remarque d’abord le style simple et graphique de l’illustration : une grande ligne noire traverse le mur, comme une racine ou une artère. Elle se déploie dans plusieurs directions, reliant des scènes de nature, de ville, d’eau et de pollution. Tout autour, des animations s’activent doucement : la pluie tombe, des feuilles bougent, l’eau ondule, les camions circulent.Le rythme lent des projections invite à l’observation.On se surprend à suivre la ligne comme un parcours, à lire les courts textes (en français et en anglais), à réfléchir aux gestes quotidiens évoqués : trier ses déchets, protéger la nature, consommer autrement.
+
+Petit à petit, on comprend que tout est connecté : ce qu’on jette, ce qu’on mange, comment on se déplace… tout a un impact sur notre santé et celle de la planète. Ce lien devient clair grâce à l’animation fluide et à la simplicité des images.
+![video_de_demonstartion-ezgif com-optimize](https://github.com/user-attachments/assets/3e77f9c3-4b18-4287-bd9f-9cbd627c3848)
+
+
