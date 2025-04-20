@@ -16,4 +16,5 @@ Dès qu’on entre dans la salle, deux projecteurs diffusent une fresque animée
 Petit à petit, on comprend que tout est connecté : ce qu’on jette, ce qu’on mange, comment on se déplace… tout a un impact sur notre santé et celle de la planète. Ce lien devient clair grâce à l’animation fluide et à la simplicité des images.
 ![video_de_demonstartion-ezgif com-optimize](https://github.com/user-attachments/assets/3e77f9c3-4b18-4287-bd9f-9cbd627c3848)
 
-
+## Technologie et Multimédia
+![photo](Media/shéma_croquis.jpg)
