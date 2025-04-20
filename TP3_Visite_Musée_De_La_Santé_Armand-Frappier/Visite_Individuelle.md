@@ -8,4 +8,4 @@ Le 21 février 2025, j'ai visitée l'exposition permanente du Musée : 4, 3, 2, 
 *photo prise par moi lors de ma visite*
 ## 4, 3, 2, 1... Santé!
 Illustrée par Laurent Pinabel, avec des animations de Carine Khalife, cette oeuvre visuelle et interactive s’étale horizontalement sur un mur, sous deux projecteurs. Elle représente une ligne noire continue stylisée, semblable à une branche ou une veine, traversant divers environnements. Elle illustre l’interdépendance entre l’environnement naturel, les milieux urbains, les actions humaines et leurs impacts sur la santé. Elle vise à sensibiliser les visiteurs à l’effet de nos modes de vie sur la santé humaine et celle de la planète. L’œuvre met en lumière les liens entre environnement, urbanisation, et santé publique, tout en offrant des pistes d’action accessibles.
-![photo](Media/cartel_de_l.expo.jpg)
+![photo](Media/cartel_de_l'expo.jpg)
